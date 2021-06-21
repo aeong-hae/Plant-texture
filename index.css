@@ -1,5 +1,4 @@
-/* TOP버튼 시작 */
-/* https://rgy0409.tistory.com */
+
 #topBtn {
     display: none;
     position: fixed;
@@ -20,7 +19,7 @@
 #topBtn:hover {
     
 }
-/* TOP버튼 끝 */
+
 
 
 
